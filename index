@@ -1,0 +1,42 @@
+<html>
+  <head> </head>
+
+  <body>
+    <h1>Welcome to the web page</h1>
+    <h2>Welcome to the web page</h2>
+    <h3>Welcome to the web page</h3>
+    <h4>Welcome to the web page</h4>
+    <h5>Welcome to the web page</h5>
+    <h6>Welcome</h6>
+
+    <p>
+      There are lots of ways to create web pages using already coded programmes.
+      <br />
+      These lessons will teach you how to use the underlying
+      <b> HyperText Markup Language </b> - HTML.
+    </p>
+
+    <p>
+      <i>
+        <del>Don't take things so serious,</del> Just <sub>Enjoy</sub> the
+        process
+      </i>
+    </p>
+
+    <a href="https://www.linkedin.com/feed/">
+      Click on this to head on to linkedin platform
+    </a>
+
+    <a href=" https://www.linkedin.com/feed/">
+      Click on this to head on to linkedin platform
+    </a>
+
+    <img src="C:\Users\SAI BARGAV N\Downloads\devops-live-thumbnail.png" />
+
+    <ol>
+      <li>Teaching programming</li>
+      <li>Learning new Tech stack</li>
+      <li>Meditation</li>
+    </ol>
+  </body>
+</html>
